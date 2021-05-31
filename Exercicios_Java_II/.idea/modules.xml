@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AssClasses/AssClasses.iml" filepath="$PROJECT_DIR$/AssClasses/AssClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atributos_Metodos_Classe/Atributos_Metodos_Classe.iml" filepath="$PROJECT_DIR$/Atributos_Metodos_Classe/Atributos_Metodos_Classe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classe_Abstrata/Classe_Abstrata.iml" filepath="$PROJECT_DIR$/Classe_Abstrata/Classe_Abstrata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EXERCICIOS20052021PAR2/EXERCICIOS20052021PAR2.iml" filepath="$PROJECT_DIR$/EXERCICIOS20052021PAR2/EXERCICIOS20052021PAR2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios_20052021/Exercicios_20052021.iml" filepath="$PROJECT_DIR$/Exercicios_20052021/Exercicios_20052021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exs_Classes/Exs_Classes.iml" filepath="$PROJECT_DIR$/Exs_Classes/Exs_Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exs_Contrutores_Encapsulamento/Exs_Contrutores_Encapsulamento.iml" filepath="$PROJECT_DIR$/Exs_Contrutores_Encapsulamento/Exs_Contrutores_Encapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exs_TAD_COLECOES/Exs_TAD_COLECOES.iml" filepath="$PROJECT_DIR$/Exs_TAD_COLECOES/Exs_TAD_COLECOES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exs_metodos/Exs_metodos.iml" filepath="$PROJECT_DIR$/Exs_metodos/Exs_metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exs_parametros/Exs_parametros.iml" filepath="$PROJECT_DIR$/Exs_parametros/Exs_parametros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Faculdade.iml" filepath="$PROJECT_DIR$/Faculdade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca_Polimorfismo/Heranca_Polimorfismo.iml" filepath="$PROJECT_DIR$/Heranca_Polimorfismo/Heranca_Polimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pilha/Pilha.iml" filepath="$PROJECT_DIR$/Pilha/Pilha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Testes/Testes.iml" filepath="$PROJECT_DIR$/Testes/Testes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fila/fila.iml" filepath="$PROJECT_DIR$/fila/fila.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filaDinamica/filaDinamica.iml" filepath="$PROJECT_DIR$/filaDinamica/filaDinamica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lista/lista.iml" filepath="$PROJECT_DIR$/lista/lista.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testeTrab/testeTrab.iml" filepath="$PROJECT_DIR$/testeTrab/testeTrab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vetores_e_colecoes/vetores_e_colecoes.iml" filepath="$PROJECT_DIR$/vetores_e_colecoes/vetores_e_colecoes.iml" />
+    </modules>
+  </component>
+</project>
